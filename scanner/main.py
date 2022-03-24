@@ -29,7 +29,9 @@ using relative path may not work with external file!"""
 
 # img = Image.open(4_state_QR.jpeg)           #note: this relative path can be find.
 
-img = Image.open("/home/ab/Desktop/research/QR/4_state_QR.jpeg")
+path = "/home/ab/Documents/GitHub/4_states-QR-code-encoder/QR/4_state_QR.jpeg"
+
+img = Image.open(path)
 # converting color image to gray
 img = ImageOps.grayscale(img)
 # convert gray inage to numpy array
