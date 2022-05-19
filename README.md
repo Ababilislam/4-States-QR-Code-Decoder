@@ -25,8 +25,8 @@ for running this package in user device user need to follow
 5. always try to use absulute path of a file location to be 100% sure that file are correctly called.
 
 
-# project contributor
-1. ABABIL ISLAM UDOY
-2. ASIF MAHAMUD
-3. ROKIBUL ISLAM
-4. DR.MD.AMINUR RAHMAN
+# project contributors
+1. ABABIL ISLAM UDOY E-mail: ababilislamudoy@gmail.com Contract no: +8801521508714
+2. ASIF MAHAMUD      E-mail: amahmud284@gmail.com Contract no: +8801753953020
+3. ROKIBUL ISLAM E-mail: rokibull.islam@gmail.com Contract no: +8801927965031
+4. DR.MUHAMMAD AMINUR RAHAMAN E-mail: aminur@cse.green.edu.bd Contract no: +8801716539541
