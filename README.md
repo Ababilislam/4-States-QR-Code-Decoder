@@ -23,3 +23,10 @@ for running this package in user device user need to follow
 3. after opening the file click on the run button to run the program.
 4. in time of running the program user may need to change the dataset changing data set information are given in the program as comments
 5. always try to use absulute path of a file location to be 100% sure that file are correctly called.
+
+
+# project contributor
+1. ABABIL ISLAM UDOY
+2. ASIF MAHAMUD
+3. ROKIBUL ISLAM
+4. DR.MD.AMINUR RAHMAN
