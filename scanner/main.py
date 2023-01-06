@@ -29,7 +29,7 @@ using relative path may not work with external file!"""
 
 # img = Image.open(4_state_QR.jpeg)           #note: this relative path can be find.
 
-path = "/home/ab/Documents/GitHub/4_states-QR-code-encoder/QR/4_state_QR.jpeg"
+path = "/home/ab/Documents/GitHub/4-States-QR-Code-Encoder/QR/4_state_QR.jpeg"
 
 img = Image.open(path)
 # converting color image to gray
